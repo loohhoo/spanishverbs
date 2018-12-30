@@ -1,0 +1,1362 @@
+{
+    "verblist": [
+        {
+            "infinitive": "hablar",
+            "regular": "regular",
+            "type": "ar",
+            "stem": "habl",
+            "cfstem": "hablar",
+            "english": "to speak"
+        },
+        {
+            "infinitive":"contestar",
+            "regular":"regular",
+            "type":"ar",
+            "stem":"contest",
+            "cfstem":"contestar",
+            "english":"to answer"
+        },
+        {
+            "infinitive":"correr",
+            "regular":"regular",
+            "type":"er",
+            "stem":"corr",
+            "cfstem":"correr",
+            "english":"to run"
+        },
+        {
+            "infinitive":"cortar",
+            "regular":"regular",
+            "type":"ar",
+            "stem":"cort",
+            "cfstem":"cortar",
+            "english":"to cut"
+        },
+        {
+            "infinitive": "creer",
+            "presentparticiple": "<span class='irr'>creyendo</span>",
+            "pastparticiple":"<span class='irr'>creído</span>",
+            "regular": "irregular",
+            "type": "er",
+            "stem": "cre",
+            "cfstem": "creer",
+            "english": "to believe",
+            "notes": [
+                "-EER verb &rarr; y inserted in the gerund, preterite, subjunctive imperfect, and subjunctive future; stress added to i between following the stem"
+            ],
+            "present": [
+                {
+                    "yo": "creo",
+                    "tu": "crees",
+                    "el": "cree",
+                    "nosotros": "creemos",
+                    "vosotros": "creéis",
+                    "ellos": "creen"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "creí",
+                    "tu": "<span class='irr'>creíste</span>",
+                    "el": "<span class='irr'>creyó</span>",
+                    "nosotros": "<span class='irr'>creímos</span>",
+                    "vosotros": "<span class='irr'>creísteis</span>",
+                    "ellos": "<span class='irr'>creyeron</span>"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "crea",
+                    "tu": "creas",
+                    "el": "crea",
+                    "nosotros": "creamos",
+                    "vosotros": "creáis",
+                    "ellos": "crean"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "<span class='irr'>creyera</span>",
+                    "tu": "<span class='irr'>creyeras</span>",
+                    "el": "<span class='irr'>creyera</span>",
+                    "nosotros": "<span class='irr'>creyéramos</span>",
+                    "vosotros": "<span class='irr'>creyerais</span>",
+                    "ellos": "<span class='irr'>creyeran</span>"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "<span class='irr'>creyese</span>",
+                    "tu": "<span class='irr'>creyeses</span>",
+                    "el": "<span class='irr'>creyese</span>",
+                    "nosotros": "<span class='irr'>creyésemos</span>",
+                    "vosotros": "<span class='irr'>creyeseis</span>",
+                    "ellos": "<span class='irr'>creyesen</span>"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "<span class='irr'>creyere</span>",
+                    "tu": "<span class='irr'>creyeres</span>",
+                    "el": "<span class='irr'>creyere</span>",
+                    "nosotros": "<span class='irr'>creyéremos</span>",
+                    "vosotros": "<span class='irr'>creyereis</span>",
+                    "ellos": "<span class='irr'>creyeren</span>"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "cree",
+                    "el": "crea",
+                    "nosotros": "creamos",
+                    "vosotros": "creed",
+                    "ellos": "crean"
+                }
+            ]
+        },
+        {
+            "infinitive": "dar",
+            "regular": "irregular",
+            "type": "ar",
+            "stem": "d",
+            "cfstem": "dar",
+            "english": "to give",
+            "notes": [
+                "Irregular Present &rarr; yo and vosotros forms",
+                "Irregular Preterite &rarr; no accents",
+                "Irregular Subjunctive Forms &rarr; Irregular él/ella imperative"
+            ],
+            "present": [
+                {
+                    "yo": "<span class='irr'>doy</span>",
+                    "tu": "das",
+                    "el": "da",
+                    "nosotros": "damos",
+                    "vosotros": "<span class='irr'>dais</span>",
+                    "ellos": "dan"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "<span class='irr'>di</span>",
+                    "tu": "<span class='irr'>diste</span>",
+                    "el": "<span class='irr'>dio</span>",
+                    "nosotros": "<span class='irr'>dimos</span>",
+                    "vosotros": "<span class='irr'>disteis</span>",
+                    "ellos": "<span class='irr'>dieron</span>"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "<span class='irr'>dé</span>",
+                    "tu": "des",
+                    "el": "<span class='irr'>dé</span>",
+                    "nosotros": "demos",
+                    "vosotros": "<span class='irr'>deis</span>",
+                    "ellos": "den"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "<span class='irr'>diera</span>",
+                    "tu": "<span class='irr'>dieras</span>",
+                    "el": "<span class='irr'>diera</span>",
+                    "nosotros": "<span class='irr'>diéramos</span>",
+                    "vosotros": "<span class='irr'>dierais</span>",
+                    "ellos": "<span class='irr'>dieran</span>"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "<span class='irr'>diese</span>",
+                    "tu": "<span class='irr'>dieses</span>",
+                    "el": "<span class='irr'>dieese</span>",
+                    "nosotros": "<span class='irr'>diésemos</span>",
+                    "vosotros": "<span class='irr'>dieseis</span>",
+                    "ellos": "<span class='irr'>diesen</span>"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "<span class='irr'>diere</span>",
+                    "tu": "<span class='irr'>dieres</span>",
+                    "el": "<span class='irr'>diere</span>",
+                    "nosotros": "<span class='irr'>diéremos</span>",
+                    "vosotros": "<span class='irr'>diereis</span>",
+                    "ellos": "<span class='irr'>dieren</span>"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "da",
+                    "el": "<span class='irr'>dé</span>",
+                    "nosotros": "demos",
+                    "vosotros": "dad",
+                    "ellos": "den"
+                }
+            ]
+        },
+        {
+            "infinitive":"deber",
+            "regular":"regular",
+            "type":"er",
+            "stem":"deb",
+            "cfstem":"deber",
+            "english":"to owe, to ought to, to must"
+        },
+        {
+            "infinitive": "doler",
+            "regular": "o>ue",
+            "type": "er",
+            "stem": "dol",
+            "cfstem": "doler",
+            "english": "to hurt",
+            "notes": [
+                "O>UE Verbs: Changes from o > ue in the present and subjunctive present (exp. nos./vos.), and tú, él, and ellos imperative"
+            ]
+            ,   
+            "present": [
+                {
+                    "yo": "duelo",
+                    "tu": "dueles",
+                    "el": "duele",
+                    "nosotros": "dolemos",
+                    "vosotros": "doléis",
+                    "ellos": "duelen"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "dolí",
+                    "tu": "doliste",
+                    "el": "dolió",
+                    "nosotros": "dolimos",
+                    "vosotros": "dolisteis",
+                    "ellos": "dolieron"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "duela",
+                    "tu": "duelas",
+                    "el": "duel",
+                    "nosotros": "dolamos",
+                    "vosotros": "doláis",
+                    "ellos": "duelan"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "doliera",
+                    "tu": "dolieras",
+                    "el": "doliera",
+                    "nosotros": "doliéramos",
+                    "vosotros": "dolierais",
+                    "ellos": "dolieran"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "dolese",
+                    "tu": "dolieses",
+                    "el": "doliese",
+                    "nosotros": "doliésemos",
+                    "vosotros": "dolieseis",
+                    "ellos": "doliesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "doliere",
+                    "tu": "dolieres",
+                    "el": "doliere",
+                    "nosotros": "doliéremos",
+                    "vosotros": "doliereis",
+                    "ellos": "dolieren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "duele",
+                    "el": "duela",
+                    "nosotros": "dolamos",
+                    "vosotros": "doled",
+                    "ellos": "duelan"
+                }
+            ]
+        },
+        {
+            "infinitive": "almorzar",
+            "regular": "o>ue",
+            "type": "ar",
+            "stem": "almorz",
+            "cfstem": "almorzar",
+            "english": "to have lunch",
+            "notes": [
+                "O>UE Verbs: Changes from o > ue in the present and subjunctive present (exp. nos./vos.), and tú, él, and ellos imperative",
+                "-ZAR Verbs: Z becomes C in preterite yo form, subjunctive present, and él, nos., and ellos imperative"
+            ],
+            "flags": [
+                {
+                    "zar": "zar"
+                }
+            ],
+            "present": [
+                {
+                    "yo": "almuerzo",
+                    "tu": "almuerzas",
+                    "el": "almuerza",
+                    "nosotros": "almorzamos",
+                    "vosotros": "almorzáis",
+                    "ellos": "almuerzan"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "almorcé",
+                    "tu": "almorzaste",
+                    "el": "almorzó",
+                    "nosotros": "almorzamos",
+                    "vosotros": "almorzasteis",
+                    "ellos": "almorzaron"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "almuerce",
+                    "tu": "almuerces",
+                    "el": "almuerce",
+                    "nosotros": "almorcemos",
+                    "vosotros": "almorcéis",
+                    "ellos": "almuercen"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "almorzara",
+                    "tu": "almorzaras",
+                    "el": "almorzara",
+                    "nosotros": "almorzáramos",
+                    "vosotros": "almorzarais",
+                    "ellos": "almorzaran"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "almorzase",
+                    "tu": "almorzases",
+                    "el": "almorzase",
+                    "nosotros": "almorzásemos",
+                    "vosotros": "almorzaseis",
+                    "ellos": "almorzasen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "almorzare",
+                    "tu": "almorzares",
+                    "el": "almorzare",
+                    "nosotros": "almorzáremos",
+                    "vosotros": "almorzareis",
+                    "ellos": "almorzaren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "almuerza",
+                    "el": "almuerce",
+                    "nosotros": "almorcemos",
+                    "vosotros": "almorzad",
+                    "ellos": "almuercen"
+                }
+            ]
+        },
+        {
+            "infinitive": "comer",
+            "regular": "regular",
+            "type": "er",
+            "stem": "com",
+            "cfstem": "comer",
+            "english": "to eat"
+        },
+        {
+            "infinitive": "aprender",
+            "regular": "regular",
+            "type": "er",
+            "stem": "aprend",
+            "cfstem": "aprender",
+            "english": "to learn"
+        },
+        {
+            "infinitive": "cambiar",
+            "regular":"regular",
+            "type":"ar",
+            "stem":"camb",
+            "cfstem":"cambiar",
+            "english":"to change"
+        },
+        {
+            "infinitive":"caminar",
+            "regular":"regular",
+            "type":"ar",
+            "stem":"camin",
+            "cfstem":"caminar",
+            "english":"to walk"
+        },
+        {
+            "infinitive": "conducir",
+            "regular": "regular",
+            "type": "ir",
+            "stem": "conduc",
+            "cfstem": "conducir",
+            "english": "to drive",
+            "notes": [
+                "Spelling change: c becomes cz before any o or a sound"
+            ],
+            "flags": [
+                {
+                    "zc": "zc"
+                }
+            ],
+            "present": [
+                {
+                    "yo": "conduzco"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "conduzca",
+                    "tu": "conduzcas",
+                    "el": "conduzca",
+                    "nosotros": "conduzcamos",
+                    "vosotros": "conduzcáis",
+                    "ellos": "conduzcan"
+                }
+            ],
+            "imperative": [
+                {
+                    "el": "conduzca",
+                    "nosotros": "conduzcamos",
+                    "ellos": "conduzcan"
+                }
+            ]
+        },
+        {
+            "infinitive": "contar",
+            "presentparticiple": "contando",
+            "regular": "o>ue",
+            "type": "ar",
+            "stem": "cont",
+            "cfstem": "contar",
+            "english": "to count",
+            "notes": [
+                "O>UE Verbs: Changes from o > ue in the present and subjunctive present (exp. nos./vos.), and tú, él, and ellos imperative"
+            ],
+            "present": [
+                {
+                    "yo": "cuento",
+                    "tu": "cuentas",
+                    "el": "cuenta",
+                    "nosotros": "contamos",
+                    "vosotros": "contáis",
+                    "ellos": "cuentan"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "conté",
+                    "tu": "contaste",
+                    "el": "contó",
+                    "nosotros": "contamos",
+                    "vosotros": "contasteis",
+                    "ellos": "contaron"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "cuente",
+                    "tu": "cuentes",
+                    "el": "cuente",
+                    "nosotros": "contemos",
+                    "vosotros": "contéis",
+                    "ellos": "cuenten"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "contara",
+                    "tu": "contaras",
+                    "el": "contara",
+                    "nosotros": "contáramos",
+                    "vosotros": "contarais",
+                    "ellos": "contaran"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "contase",
+                    "tu": "contases",
+                    "el": "contase",
+                    "nosotros": "contásemos",
+                    "vosotros": "contaseis",
+                    "ellos": "contasen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "contare",
+                    "tu": "contares",
+                    "el": "contare",
+                    "nosotros": "contáremos",
+                    "vosotros": "contareis",
+                    "ellos": "contaren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "cuenta",
+                    "el": "cuente",
+                    "nosotros": "contemos",
+                    "vosotros": "contad",
+                    "ellos": "cuenten"
+                }
+            ]
+        },
+        {
+            "infinitive": "aceptar",
+            "regular": "regular",
+            "type": "ar",
+            "stem": "acept",
+            "cfstem": "aceptar",
+            "english": "to accept"
+        },
+        {
+            "infinitive": "andar",
+            "regular": "regular",
+            "type": "ar",
+            "stem": "and",
+            "cfstem": "andar",
+            "english": "to walk",
+            "notes": [
+                "-UV- preterite: Inserts an -uv- in the preterite and loses all accents"
+            ],
+            "flags": [
+            {
+                "preterite":"irr"
+            }],
+            "preterite": [
+                {
+                    "yo": "anduve",
+                    "tu": "anduviste",
+                    "el": "anduvo",
+                    "nosotros": "anduvimos",
+                    "vosotros": "anduvisteis",
+                    "ellos": "anduvieron"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "anduviera",
+                    "tu": "anduvieras",
+                    "el": "anduviera",
+                    "nosotros": "anduviéramos",
+                    "vosotros": "anduvierais",
+                    "ellos": "anduvieran"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "anduviese",
+                    "tu": "anduvieses",
+                    "el": "anduviese",
+                    "nosotros": "anduviésemos",
+                    "vosotros": "anduvieseis",
+                    "ellos": "anduviesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "anduviere",
+                    "tu": "anduvieres",
+                    "el": "anduviere",
+                    "nosotros": "anduviéremos",
+                    "vosotros": "anduviereis",
+                    "ellos": "anduvieren"
+                }
+            ]
+        },
+        {
+            "infinitive": "ayudar",
+            "regular": "regular",
+            "type": "ar",
+            "stem": "ayud",
+            "cfstem": "ayudar",
+            "english": "to help"
+        },
+        {
+            "infinitive": "acabar",
+            "regular": "regular",
+            "type": "ar",
+            "stem": "acab",
+            "cfstem": "acabar",
+            "english": "to finish"
+        },
+        {
+            "infinitive": "bailar",
+            "regular": "regular",
+            "type": "ar",
+            "stem": "bail",
+            "cfstem": "bailar",
+            "english": "to dance"
+        },
+        {
+            "infinitive": "beber",
+            "regular": "regular",
+            "type": "er",
+            "stem": "beb",
+            "cfstem": "beber",
+            "english": "to drink"
+        },
+        {
+            "infinitive": "hundir",
+            "regular": "regular",
+            "type": "ir",
+            "stem": "hund",
+            "cfstem": "hundir",
+            "english": "to sink"
+        },
+        {
+            "infinitive": "dormir",
+            "presentparticiple": "durmiendo",
+            "regular": "o>ue",
+            "type": "ir",
+            "stem": "dorm",
+            "cfstem": "dormir",
+            "english": "to sleep",
+            "notes": [
+                "O>UE Verbs: Changes from o > ue in the present and subjunctive present (exp. nos./vos.), and tú, él, and ellos imperative",
+                "-IR O>UE Verbs: changes from o > u in third persons preterite / subjunctive present, all of subjunctive imperfect / future, and nosotros imperative"
+            ],
+            "present": [
+                {
+                    "yo": "duermo",
+                    "tu": "duermes",
+                    "el": "duerme",
+                    "nosotros": "dormimos",
+                    "vosotros": "dormís",
+                    "ellos": "duermen"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "dormí",
+                    "tu": "dormiste",
+                    "el": "durmió",
+                    "nosotros": "dormimos",
+                    "vosotros": "dormisteis",
+                    "ellos": "durmieron"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "duerma",
+                    "tu": "duermas",
+                    "el": "duerma",
+                    "nosotros": "durmamos",
+                    "vosotros": "durmáis",
+                    "ellos": "duerman"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "durmiera",
+                    "tu": "durmieras",
+                    "el": "durmiera",
+                    "nosotros": "durmiéramos",
+                    "vosotros": "durmierais",
+                    "ellos": "durmieran"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "durmiese",
+                    "tu": "durmieses",
+                    "el": "durmiese",
+                    "nosotros": "durmiésemos",
+                    "vosotros": "durmieseis",
+                    "ellos": "durmiesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "durmiere",
+                    "tu": "durmieres",
+                    "el": "durmiere",
+                    "nosotros": "durmiéremos",
+                    "vosotros": "durmiereis",
+                    "ellos": "durmieren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "duerme",
+                    "el": "duerma",
+                    "nosotros": "durmamos",
+                    "vosotros": "dormid",
+                    "ellos": "duerman"
+                }
+            ]
+        },
+        {
+            "infinitive": "caer",
+            "presentparticiple": "<span class='irr'>cayendo</span>",
+            "regular": "irregular",
+            "type": "er",
+            "stem": "ca",
+            "cfstem": "caer",
+            "english": "to fall",
+            "notes": [
+                "Irregular present yo form &rarr; irregular present subjunctive / imperative",
+                "-AER verb &rarr; y inserted in the gerund, preterite, subjunctive imperfect, and subjunctive future"
+            ],
+            "present": [
+                {
+                    "yo": "<span class='irr'>caigo</span>",
+                    "tu": "caes",
+                    "el": "cae",
+                    "nosotros": "caemos",
+                    "vosotros": "caéis",
+                    "ellos": "caen"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "caí",
+                    "tu": "<span class='irr'>caíste</span>",
+                    "el": "<span class='irr'>cayó</span>",
+                    "nosotros": "<span class='irr'>caímos</span>",
+                    "vosotros": "<span class='irr'>caísteis</span>",
+                    "ellos": "<span class='irr'>cayeron</span>"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "<span class='irr'>caiga</span>",
+                    "tu": "<span class='irr'>caigas</span>",
+                    "el": "<span class='irr'>caiga</span>",
+                    "nosotros": "<span class='irr'>caigamos</span>",
+                    "vosotros": "<span class='irr'>caigáis</span>",
+                    "ellos": "<span class='irr'>caigan</span>"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "<span class='irr'>cayera</span>",
+                    "tu": "<span class='irr'>cayeras</span>",
+                    "el": "<span class='irr'>cayera</span>",
+                    "nosotros": "<span class='irr'>cayéramos</span>",
+                    "vosotros": "<span class='irr'>cayerais</span>",
+                    "ellos": "<span class='irr'>cayeran</span>"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "<span class='irr'>cayese</span>",
+                    "tu": "<span class='irr'>cayeses</span>",
+                    "el": "<span class='irr'>cayese</span>",
+                    "nosotros": "<span class='irr'>cayésemos</span>",
+                    "vosotros": "<span class='irr'>cayeseis</span>",
+                    "ellos": "<span class='irr'>cayesen</span>"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "<span class='irr'>cayere</span>",
+                    "tu": "<span class='irr'>cayeres</span>",
+                    "el": "<span class='irr'>cayere</span>",
+                    "nosotros": "<span class='irr'>cayéremos</span>",
+                    "vosotros": "<span class='irr'>cayereis</span>",
+                    "ellos": "<span class='irr'>cayeren</span>"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "cae",
+                    "el": "<span class='irr'>caiga</span>",
+                    "nosotros": "<span class='irr'>caigamos</span>",
+                    "vosotros": "caed",
+                    "ellos": "<span class='irr'>caigan</span>"
+                }
+            ]
+        },
+        {
+            "infinitive": "venir",
+            "regular": "e>ie",
+            "type": "ir",
+            "stem": "ven",
+            "cfstem": "vendr",
+            "english": "to come",
+            "notes": [
+                "Irregular yo form &rarr; irregular present subjunctive / imperative",
+                "E>IE Verbs: changes from e to ie in the present (exc. nos./vos.)",
+                "Irregular preterite: vowels changes from e > i in all persons",
+                "Irregular conditional / future: inserts -dr- before the endings"
+            ],
+            "present": [
+                {
+                    "yo": "vengo",
+                    "tu": "vienes",
+                    "el": "viene",
+                    "nosotros": "venimos",
+                    "vosotros": "venís",
+                    "ellos": "vienen"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "<span class='irr'>vine</span>",
+                    "tu": "<span class='irr'>viniste</span>",
+                    "el": "vino",
+                    "nosotros": "<span class='irr'>vinimos</span>",
+                    "vosotros": "<span class='irr'>vinisteis</span>",
+                    "ellos": "vinieron"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "venga",
+                    "tu": "vengas",
+                    "el": "venga",
+                    "nosotros": "vengamos",
+                    "vosotros": "vengáis",
+                    "ellos": "vengan"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "viniera",
+                    "tu": "vinieras",
+                    "el": "viniera",
+                    "nosotros": "viniéramos",
+                    "vosotros": "vinierais",
+                    "ellos": "vinieran"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "viniese",
+                    "tu": "vinieses",
+                    "el": "viniese",
+                    "nosotros": "viniésemos",
+                    "vosotros": "vinieseis",
+                    "ellos": "viniesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "viniere",
+                    "tu": "vinieres",
+                    "el": "viniere",
+                    "nosotros": "viniéremos",
+                    "vosotros": "viniereis",
+                    "ellos": "vinieren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "ven",
+                    "el": "venga",
+                    "nosotros": "vengamos",
+                    "vosotros": "venid",
+                    "ellos": "vengan"
+                }
+            ]
+        },
+        {
+            "infinitive": "conocer",
+            "regular": "regular",
+            "type": "er",
+            "stem": "conoc",
+            "cfstem": "conocer",
+            "english": "to know, to meet",
+            "notes": [
+                "Spelling change: c becomes cz before any o or a sound"
+            ],
+            "flags": [
+                {
+                    "zc": "zc"
+                }
+            ],
+            "present": [
+                {
+                    "yo": "conozco"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "conozca",
+                    "tu": "conozcas",
+                    "el": "conozca",
+                    "nosotros": "conozcamos",
+                    "vosotros": "conozcáis",
+                    "ellos": "conozcan"
+                }
+            ],
+            "imperative": [
+                {
+                    "el": "conozca",
+                    "nosotros": "conozcamos",
+                    "ellos": "conozcan"
+                }
+            ]
+        },
+        {
+            "infinitive": "escoger",
+            "regular": "regular",
+            "type": "er",
+            "stem": "escog",
+            "cfstem": "escoger",
+            "english": "to choose",
+            "notes": [
+                "Spelling change: g becomes j before any o or a sound"
+            ],
+            "flags": [
+                {
+                    "j": "j"
+                }
+            ],
+            "present": [
+                {
+                    "yo": "escojo"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "escoja",
+                    "tu": "escojas",
+                    "el": "escoja",
+                    "nosotros": "escojamos",
+                    "vosotros": "escojáis",
+                    "ellos": "escojan"
+                }
+            ],
+            "imperative": [
+                {
+                    "el": "escoja",
+                    "nosotros": "escojamos",
+                    "ellos": "escojan"
+                }
+            ]
+        },
+        {
+            "infinitive": "buscar",
+            "regular": "regular",
+            "type": "ar",
+            "stem": "busc",
+            "cfstem": "buscar",
+            "english": "to search for",
+            "notes": [
+                "Spelling change: c becomes qu before any e sound"
+            ],
+            "flags": [
+                {
+                    "qu": "qu"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "busqué"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "busque",
+                    "tu": "busques",
+                    "el": "busque",
+                    "nosotros": "busquemos",
+                    "vosotros": "busquéis",
+                    "ellos": "busquen"
+                }
+            ],
+            "imperative": [
+                {
+                    "el": "busque",
+                    "nosotros": "busquemos",
+                    "ellos": "busquen"
+                }
+            ]
+        },
+        {
+            "infinitive":"empezar",
+            "regular":"e>ie",
+            "type":"ar",
+            "stem":"empez",
+            "cfstem":"empezar",
+            "english":"to begin, start",
+            "notes":[
+                "E>IE Verbs: Changes from e > ie in the present and subjunctive present (exp. nos./vos.), and tú, él, and ellos imperative",
+                "ZAR Verbs: Z changes to C before e or i"
+            ],
+            "flags": [
+                {
+                    "zar":"zar"
+                }
+            ],
+            "present":[
+                {
+                    "yo":"empiezo",
+                    "tu":"empiezas",
+                    "el":"empieza",
+                    "nosotros":"empezamos",
+                    "vosotros":"empezáis",
+                    "ellos":"empiezan"
+                }
+            ],
+            "preterite":[
+                {
+                    "yo":"empecé",
+                    "tu":"empezaste",
+                    "el":"empezó",
+                    "nosotros":"empezamos",
+                    "vosotros":"empezasteis",
+                    "ellos":"empezaron"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "<span class='irr'>empiece</span>",
+                    "tu": "<span class='irr'>empieces</span>",
+                    "el": "<span class='irr'>empiece</span>",
+                    "nosotros": "<span class='irr'>empecemos</span>",
+                    "vosotros": "<span class='irr'>empecéis</span>",
+                    "ellos": "<span class='irr'>empiecen</span>"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu":"empieza",
+                    "el": "empiece",
+                    "nosotros": "empecemos",
+                    "vosotros":"empezad",
+                    "ellos": "empiecen"
+                }
+            ]
+        },
+        {
+            "infinitive":"decir",
+            "regular":"irregular",
+            "type":"ir",
+            "stem":"dec",
+            "cfstem":"dir",
+            "english":"to say",
+            "notes":[
+                "Completely irregular except for Imperfect"
+            ],
+            "present": [
+                {
+                    "yo": "<span class='irr'>digo</span>",
+                    "tu": "<span class='irr'>dices</span>",
+                    "el": "<span class='irr'>dice</span>",
+                    "nosotros": "decimos",
+                    "vosotros": "decís",
+                    "ellos": "<span class='irr'>dicen</span>"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "<span class='irr'>dije</span>",
+                    "tu": "<span class='irr'>dijiste</span>",
+                    "el": "<span class='irr'>dijo</span>",
+                    "nosotros": "<span class='irr'>dijimos</span>",
+                    "vosotros": "<span class='irr'>dijisteis</span>",
+                    "ellos": "<span class='irr'>dijeron</span>"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "<span class='irr'>diga</span>",
+                    "tu": "<span class='irr'>digas</span>",
+                    "el": "<span class='irr'>diga</span>",
+                    "nosotros": "<span class='irr'>digamos</span>",
+                    "vosotros": "<span class='irr'>digáis</span>",
+                    "ellos": "<span class='irr'>digan</span>"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "<span class='irr'>dijera</span>",
+                    "tu": "<span class='irr'>dijeras</span>",
+                    "el": "<span class='irr'>dijera</span>",
+                    "nosotros": "<span class='irr'>dijéramos</span>",
+                    "vosotros": "<span class='irr'>dijerais</span>",
+                    "ellos": "<span class='irr'>dijeran</span>"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "<span class='irr'>dijese</span>",
+                    "tu": "<span class='irr'>dijeses</span>",
+                    "el": "<span class='irr'>dijese</span>",
+                    "nosotros": "<span class='irr'>dijésemos</span>",
+                    "vosotros": "<span class='irr'>dijeseis</span>",
+                    "ellos": "<span class='irr'>dijesen</span>"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "<span class='irr'>dijere</span>",
+                    "tu": "<span class='irr'>dijeres</span>",
+                    "el": "<span class='irr'>dijere</span>",
+                    "nosotros": "<span class='irr'>dijéremos</span>",
+                    "vosotros": "<span class='irr'>dijereis</span>",
+                    "ellos": "<span class='irr'>dijeren</span>"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "<span class='irr'>di</span>",
+                    "el": "<span class='irr'>diga</span>",
+                    "nosotros": "<span class='irr'>degamos</span>",
+                    "vosotros": "decid",
+                    "ellos": "<span class='irr'>digan</span>"
+                }
+            ]
+        },
+        {
+            "infinitive":"dejar",
+            "regular":"regular",
+            "type":"ar",
+            "stem":"dej",
+            "cfstem":"dejar",
+            "english":"to leave, to let"
+        },
+        {
+            "infinitive":"desear",
+            "regular":"regular",
+            "type":"ar",
+            "stem":"dese",
+            "cfstem":"desear",
+            "english":"to wish"
+        },
+        {
+            "infinitive":"dibujar",
+            "regular":"regular",
+            "type":"ar",
+            "stem":"dibuj",
+            "cfstem":"dibujar",
+            "english":"to draw"
+        },
+        {
+
+        },
+        {
+            "infinitive": "traducir",
+            "regular": "regular",
+            "type": "ir",
+            "stem": "traduc",
+            "cfstem": "traducir",
+            "english": "to translate",
+            "notes": [
+                "Spelling change: c becomes cz before any o or a sound"
+            ],
+            "flags": [
+                {
+                    "zc": "zc"
+                }
+            ],
+            "present": [
+                {
+                    "yo": "traduzco"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "traduzca",
+                    "tu": "traduzcas",
+                    "el": "traduzca",
+                    "nosotros": "traduzcamos",
+                    "vosotros": "traduzcáis",
+                    "ellos": "traduzcan"
+                }
+            ],
+            "imperative": [
+                {
+                    "el": "traduzca",
+                    "nosotros": "traduzcamos",
+                    "ellos": "traduzcan"
+                }
+            ]
+        },
+        {
+            "infinitive": "ser",
+            "presentparticiple": "siendo",
+            "regular": "ser",
+            "type": "er",
+            "stem": "s",
+            "cfstem": "ser",
+            "english": "to be",
+            "notes": [
+                "Completely irregular across most tenses"
+            ],
+            "present": [
+                {
+                    "yo": "soy",
+                    "tu": "eres",
+                    "el": "es",
+                    "nosotros": "<span class='irr'>somos</span>",
+                    "vosotros": "<span class='irr'>sois</span>",
+                    "ellos": "son"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "fui",
+                    "tu": "fuiste",
+                    "el": "fue",
+                    "nosotros": "fuimos",
+                    "vosotros": "fuisteis",
+                    "ellos": "fueron"
+                }
+            ],
+            "imperfect": [{
+                "yo": "era",
+                "tu": "eras",
+                "el": "era",
+                "nosotros": "éramos",
+                "vosotros": "erais",
+                "ellos": "eran"
+            }],
+            "subjunctivepresent": [
+                {
+                    "yo": "sea",
+                    "tu": "seas",
+                    "el": "sea",
+                    "nosotros": "seamos",
+                    "vosotros": "seáis",
+                    "ellos": "sean"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "fuera",
+                    "tu": "fueras",
+                    "el": "fuera",
+                    "nosotros": "fuéramos",
+                    "vosotros": "fuerais",
+                    "ellos": "fueran"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "fuese",
+                    "tu": "fueses",
+                    "el": "fuese",
+                    "nosotros": "fuésemos",
+                    "vosotros": "fueseis",
+                    "ellos": "fuesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "fuere",
+                    "tu": "fueres",
+                    "el": "fuere",
+                    "nosotros": "fuéremos",
+                    "vosotros": "fuereis",
+                    "ellos": "fueren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "sé",
+                    "el": "sea",
+                    "nosotros": "seamos",
+                    "vosotros": "sed",
+                    "ellos": "sean"
+                }
+            ]
+        },
+        {
+            "infinitive": "estar",
+            "regular": "estar",
+            "type": "ar",
+            "stem": "est",
+            "cfstem": "estar",
+            "english": "to be",
+            "notes": [
+                "Mostly irregular present: all forms exc. nos. / vos.",
+                "-UV- preterite: Inserts an -uv- in the preterite and loses all accents",
+                "Maintains all accents in the subjunctive present and imperative"
+            ],
+            "present": [
+                {
+                    "yo": "<span class='irr'>estoy</span>",
+                    "tu": "<span class='irr'>estás</span>",
+                    "el": "<span class='irr'>está</span>",
+                    "nosotros": "estamos",
+                    "vosotros": "estáis",
+                    "ellos": "<span class='irr'>están</span>"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "<span class='irr'>estuve</span>",
+                    "tu": "<span class='irr'>estuviste</span>",
+                    "el": "<span class='irr'>estuvo</span>",
+                    "nosotros": "<span class='irr'>estuvimos</span>",
+                    "vosotros": "<span class='irr'>estuvisteis</span>",
+                    "ellos": "<span class='irr'>estuvieron</span>"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "<span class='irr'>esté</span>",
+                    "tu": "<span class='irr'>estés</span>",
+                    "el": "<span class='irr'>esté</span>",
+                    "nosotros": "estemos</span>",
+                    "vosotros": "estéis</span>",
+                    "ellos": "<span class='irr'>estén</span>"
+                }
+            ],
+            "subjunctivera": [
+                {
+                    "yo": "<span class='irr'>estuviera</span>",
+                    "tu": "<span class='irr'>estuvieras</span>",
+                    "el": "<span class='irr'>estuviera</span>",
+                    "nosotros": "<span class='irr'>estuviéramos</span>",
+                    "vosotros": "<span class='irr'>estuvierais</span>",
+                    "ellos": "<span class='irr'>estuvieran</span>"
+                }
+            ],
+            "subjunctivese": [
+                {
+                    "yo": "<span class='irr'>estuviese</span>",
+                    "tu": "<span class='irr'>estuvieses</span>",
+                    "el": "<span class='irr'>estuviese</span>",
+                    "nosotros": "<span class='irr'>estuviésemos</span>",
+                    "vosotros": "<span class='irr'>estuvieseis</span>",
+                    "ellos": "<span class='irr'>estuviesen</span>"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "<span class='irr'>estuviere</span>",
+                    "tu": "<span class='irr'>estuvieres</span>",
+                    "el": "<span class='irr'>estuviere</span>",
+                    "nosotros": "<span class='irr'>estuviéremos</span>",
+                    "vosotros": "<span class='irr'>estuviereis</span>",
+                    "ellos": "<span class='irr'>estuvieren</span>"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "<span class='irr'>está</span>",
+                    "el": "<span class='irr'>esté</span>",
+                    "nosotros": "estemos",
+                    "vosotros": "estad",
+                    "ellos": "<span class='irr'>estén</span>"
+                }
+            ]
+        }
+    ]
+}

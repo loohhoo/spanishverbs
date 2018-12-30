@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="jquery.js"></script>
+		<script src="scripts.js"></script>
+	</head>
+	<meta charset="UTF-8">
+	<body>
+		<header>
+			<div id="wrap">
+				<h1>conjugador</h1>
+				<ul id="menu">
+					<li><a href="http://people.emich.edu/lhicks16/spanishapp/learn/">learn</a></li>
+					<li><a href="http://people.emich.edu/lhicks16/spanishapp/">conjugator</a></li>
+					<li><a href="http://people.emich.edu/lhicks16/spanishapp/practice/">drills</a></li>
+				</ul>
+			</div>
+		</header>
+		<div class="container">
+		<div id="main">
+			<section id="search-area">
+				<p id="stats"><span id="score">0</span> right out of <span id="questioncount">0</span></p>
+				<p id="accents"><button id="acc-a">á</button><button id="acc-e">é</button><button id="acc-i">í</button><button id="acc-o">ó</button><button id="acc-u">ú</button><button id="acc-uu">ü</button><button id="acc-n">ñ</button></p>
+				<h2>Press start to begin!</h2>
+				<p><button id="start">Start!</button></p>
+				<p id="question"></p>
+				<p><input type="text" id="answer" />
+				<button id="check">Check!</button></p>
+
+				<button id="peek">Peek</button>
+				<button id="next">Next</button>
+				<div id="result"></div>
+			</section>
+		</div>
+		<div id="sidebar-person">
+			<section id="persons">
+				<h2>Other Settings</h2>
+			<p>
+				<input type="checkbox" id="vosotros-person" checked="checked"/>
+				<label for="vosotros-person">vosotros</label>
+			</p>
+			<section id="vtypes">
+			<p>
+				<input type="checkbox" id="ar-verbs" checked="checked" />
+				<label for="ar-verbs">-AR</label>
+				<input type="checkbox" id="er-verbs" checked="checked" />
+				<label for="er-verbs">-ER</label>
+				<input type="checkbox" id="ir-verbs" checked="checked" />
+				<label for="ir-verbs">-IR</label>
+			</p>
+		</section>
+		<section id="regulars">
+			<p>
+				<input type="checkbox" id="regular-verbs" checked="checked" />
+				<label for="regular-verbs">Regular Verbs</label>
+				<br />
+				<input type="checkbox" id="all-irr-verbs" checked="checked" />
+				<label for="all-irr-verbs">Irregular Verbs</label>
+				<br />
+				<input type="checkbox" id="spell-verbs" checked="checked" />
+				<label for="spell-verbs">Spelling Changing Verbs</label>
+				<br />
+				<input type="checkbox" id="vowel-verbs" checked="checked" />
+				<label for="vowel-verbs">Vowel Changing Verbs</label>
+			</p>
+		</section>
+	</div>
+		<div id="sidebar-tense">
+		<section id="options">
+			<h2>Tenses</h2>
+			<h3>Indicative</h3>
+			<p>
+				<input type="checkbox" id="present-tense" checked="checked"/>
+				<label for="present-tense">Present</label>
+
+
+				<input type="checkbox" id="imperfect-tense" checked="checked"/>
+				<label for="imperfect-tense">Imperfect</label>
+
+				<input type="checkbox" id="preterite-tense" checked="checked"/>
+				<label for="preterite-tense">Preterite</label>
+			</p>
+
+			<p>
+
+				<input type="checkbox" id="future-tense" checked="checked"/>
+				<label for="future-tense">Future</label>
+
+				<input type="checkbox" id="conditional-tense" checked="checked"/>
+				<label for="conditional-tense">Conditional</label>
+			</p>
+
+			<p>
+			</p>
+
+			<h3>Subjunctive</h3>
+			<p>
+				<input type="checkbox" id="subjunctivepresent-tense" checked="checked"/>
+				<label for="subjunctivepresent-tense">Present</label>
+
+				<input type="checkbox" id="subjunctivefuture-tense" checked="checked"/>
+				<label for="subjunctivefuture-tense">Subjunctive Future</label>
+			</p>
+
+			<p>
+				<input type="checkbox" id="subjunctiveimperfectra-tense" checked="checked"/>
+				<label for="subjunctiveimperfectra-tense">Imperfect (Ra)</label>
+
+				<input type="checkbox" id="subjunctiveimperfectse-tense" checked="checked"/>
+				<label for="subjunctiveimperfectse-tense">Imperfect (Se)</label>
+			</p>
+
+			<h3>Perfect</h3>
+			<p>
+				<input type="checkbox" id="presentperfect-tense" checked="checked"/>
+				<label for="presentperfect-tense">Present Perfect</label>
+
+				<input type="checkbox" id="pastperfect-tense" checked="checked"/>
+				<label for="pastperfect-tense">Past Perfect</label>
+
+
+				<input type="checkbox" id="preteriteperfect-tense" checked="checked">
+				<label for="preteriteperfect-tense">Preterite Perfect</label>
+			</p>
+			<p>
+				<input type="checkbox" id="conditionalperfect-tense" checked="checked"/>
+				<label for="conditionalperfect-tense">Conditional Perfect</label>
+
+
+				<input type="checkbox" id="futureperfect-tense" checked="checked"/>
+				<label for="futureperfect-tense">Future Perfect</label>
+			</p>
+		
+			<h3>Subjunctive Perfect</h3>
+			<p>
+				<input type="checkbox" id="subjunctivepresentperfect-tense" checked="checked"/>
+				<label for="subjunctivepresentperfect-tense">Present Perfect</label>
+
+				<input type="checkbox" id="subjunctivepastperfect-tense" checked="checked"/>
+				<label for="subjunctivepastperfect-tense">Past Perfect</label>
+
+
+				<input type="checkbox" id="subjunctivefutureperfect-tense" checked="checked"/>
+				<label for="subjunctivefutureperfect-tense">Subjunctive Future Perfect</label>
+			</p>
+
+			<p>
+				<input type="checkbox" id="imperative-tense" checked="checked"/>
+				<label for="imperative-tense">Imperative</label>
+			</p>
+			
+
+		</section>
+		</div>
+		
+	</div>
+		
+		<!--<section id="quiz-box">
+			io: <input type="text" id="quiz-io" /><br />
+			tu: <input type="text" id="quiz-tu" /><br />
+			lei: <input type="text" id="quiz-lei" /><br />
+			nosotros: <input type="text" id="quiz-nosotros" /><br />
+			vosotros: <input type="text" id="quiz-vosotros" /><br />
+			ellos: <input type="text" id="quiz-ellos" /><br />
+			<button id="quiz-check">Check!</button>
+		</section> -->
+		</div>
+	</body>
+</html>

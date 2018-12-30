@@ -1,0 +1,781 @@
+{
+    "verblist": [
+        {
+            "vtype": "0",
+            "regular": "regular",
+            "english": "to speak",
+            "present": [
+                {
+                    "yo": "hablo",
+                    "tu": "hablas",
+                    "el": "habla",
+                    "nosotros": "hablamos",
+                    "vosotros": "habláis",
+                    "ellos": "hablan"
+                }
+            ],
+            "imperfect": [
+                {
+                    "yo": "hablaba",
+                    "tu": "hablabas",
+                    "el": "hablaba",
+                    "nosotros": "hablábamos",
+                    "vosotros": "hablábais",
+                    "ellos": "hablaban"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "hablé",
+                    "tu": "hablaste",
+                    "el": "habló",
+                    "nosotros": "hablamos",
+                    "vosotros": "hablasteis",
+                    "ellos": "hablaron"
+                }
+            ],
+            "future": [
+                {
+                    "yo": "hablaré",
+                    "tu": "hablarás",
+                    "el": "hablará",
+                    "nosotros": "hablaremos",
+                    "vosotros": "hablaréis",
+                    "ellos": "hablarán"
+                }
+            ],
+            "conditional": [
+                {
+                    "yo": "hablaría",
+                    "tu": "hablarías",
+                    "el": "hablaría",
+                    "nosotros": "hablaríamos",
+                    "vosotros": "hablaríais",
+                    "ellos": "hablarían"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "hable",
+                    "tu": "hables",
+                    "el": "hable",
+                    "nosotros": "hablemos",
+                    "vosotros": "habléis",
+                    "ellos": "hablen"
+                }
+            ],
+            "subjunctiveimperfectra": [
+                {
+                    "yo": "hablara",
+                    "tu": "hablaras",
+                    "el": "hablara",
+                    "nosotros": "habláramos",
+                    "vosotros": "hablarais",
+                    "ellos": "hablaran"
+                }
+            ],
+            "subjunctiveimperfectse": [
+                {
+                    "yo": "hablase",
+                    "tu": "hablases",
+                    "el": "hablase",
+                    "nosotros": "hablásemos",
+                    "vosotros": "hablaseis",
+                    "ellos": "hablasen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "hablare",
+                    "tu": "hablares",
+                    "el": "hablare",
+                    "nosotros": "habláremos",
+                    "vosotros": "hablareis",
+                    "ellos": "hablaren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "habla",
+                    "el": "hable",
+                    "nosotros": "hablemos",
+                    "vosotros": "hablad",
+                    "ellos": "hablen"
+                }
+            ],
+            "infinitive": "hablar",
+            "participle": [
+                {
+                    "present": "hablando",
+                    "past": "hablado"
+                }
+            ]
+        },
+        {
+            "vtype": "1",
+            "regular": "irregular",
+            "english": "to be",
+            "present": [
+                {
+                    "yo": "soy",
+                    "tu": "eres",
+                    "el": "es",
+                    "nosotros": "somos",
+                    "vosotros": "sois",
+                    "ellos": "son"
+                }
+            ],
+            "imperfect": [
+                {
+                    "yo": "era",
+                    "tu": "eras",
+                    "el": "era",
+                    "nosotros": "éramos",
+                    "vosotros": "erais",
+                    "ellos": "eran"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "fui",
+                    "tu": "fuiste",
+                    "el": "fue",
+                    "nosotros": "fuimos",
+                    "vosotros": "fuisteis",
+                    "ellos": "fueron"
+                }
+            ],
+            "future": [
+                {
+                    "yo": "seré",
+                    "tu": "serás",
+                    "el": "será",
+                    "nosotros": "seremos",
+                    "vosotros": "seréis",
+                    "ellos": "serán"
+                }
+            ],
+            "conditional": [
+                {
+                    "yo": "sería",
+                    "tu": "serías",
+                    "el": "sería",
+                    "nosotros": "seríamos",
+                    "vosotros": "seríais",
+                    "ellos": "serían"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "sea",
+                    "tu": "seas",
+                    "el": "sea",
+                    "nosotros": "seamos",
+                    "vosotros": "seáis",
+                    "ellos": "sean"
+                }
+            ],
+            "subjunctiveimperfectra": [
+                {
+                    "yo": "fuera",
+                    "tu": "fueras",
+                    "el": "fuera",
+                    "nosotros": "fuéramos",
+                    "vosotros": "fuerais",
+                    "ellos": "fueran"
+                }
+            ],
+            "subjunctiveimperfectse": [
+                {
+                    "yo": "fuese",
+                    "tu": "fueses",
+                    "el": "fuese",
+                    "nosotros": "fuésemos",
+                    "vosotros": "fueseis",
+                    "ellos": "fuesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "fuere",
+                    "tu": "fueres",
+                    "el": "fuere",
+                    "nosotros": "fuéremos",
+                    "vosotros": "fuereis",
+                    "ellos": "fueren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "sé",
+                    "el": "sea",
+                    "nosotros": "seamos",
+                    "vosotros": "sed",
+                    "ellos": "sean"
+                }
+            ],
+            "infinitive": "ser",
+            "participle": [
+                {
+                    "present": "siendo",
+                    "past": "sido"
+                }
+            ]
+        },
+        {
+            "vtype": "0",
+            "regular": "irregular",
+            "english": "to be",
+            "present": [
+                {
+                    "yo": "estoy",
+                    "tu": "estás",
+                    "el": "está",
+                    "nosotros": "estamos",
+                    "vosotros": "estáis",
+                    "ellos": "están"
+                }
+            ],
+            "imperfect": [
+                {
+                    "yo": "estaba",
+                    "tu": "estabas",
+                    "el": "estaba",
+                    "nosotros": "estábamos",
+                    "vosotros": "estabais",
+                    "ellos": "estaban"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "estuve",
+                    "tu": "estuviste",
+                    "el": "estuvo",
+                    "nosotros": "estuvimos",
+                    "vosotros": "estuvisteis",
+                    "ellos": "estuvieron"
+                }
+            ],
+            "future": [
+                {
+                    "yo": "estaré",
+                    "tu": "estarás",
+                    "el": "estará",
+                    "nosotros": "estaremos",
+                    "vosotros": "estaréis",
+                    "ellos": "estarán"
+                }
+            ],
+            "conditional": [
+                {
+                    "yo": "estaría",
+                    "tu": "estarías",
+                    "el": "estaría",
+                    "nosotros": "estaríamos",
+                    "vosotros": "estaríais",
+                    "ellos": "estarían"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "esté",
+                    "tu": "estés",
+                    "el": "esté",
+                    "nosotros": "estemos",
+                    "vosotros": "estéis",
+                    "ellos": "estén"
+                }
+            ],
+            "subjunctiveimperfectra": [
+                {
+                    "yo": "estuviera",
+                    "tu": "estuvieras",
+                    "el": "estuviera",
+                    "nosotros": "estuviéramos",
+                    "vosotros": "estuvierais",
+                    "ellos": "estuvieran"
+                }
+            ],
+            "subjunctiveimperfectse": [
+                {
+                    "yo": "estuviese",
+                    "tu": "estuvieses",
+                    "el": "estuviese",
+                    "nosotros": "estuviésemos",
+                    "vosotros": "estuvieseis",
+                    "ellos": "estuviesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "estuviere",
+                    "tu": "estuvieres",
+                    "el": "estuviere",
+                    "nosotros": "estuviéremos",
+                    "vosotros": "estuviereis",
+                    "ellos": "estuvieren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "está",
+                    "el": "esté",
+                    "nosotros": "estemos",
+                    "vosotros": "estad",
+                    "ellos": "estén"
+                }
+            ],
+            "infinitive": "estar",
+            "participle": [
+                {
+                    "present": "estando",
+                    "past": "estado"
+                }
+            ]
+        },
+        {
+            "vtype": "0",
+            "regular": "regular",
+            "english": "to finish",
+            "present": [
+                {
+                    "yo": "acabo",
+                    "tu": "acabas",
+                    "el": "acaba",
+                    "nosotros": "acabamos",
+                    "vosotros": "acabáis",
+                    "ellos": "acaban"
+                }
+            ],
+            "imperfect": [
+                {
+                    "yo": "acababa",
+                    "tu": "acababas",
+                    "el": "acababa",
+                    "nosotros": "acabábamos",
+                    "vosotros": "acababais",
+                    "ellos": "acababan"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "acabé",
+                    "tu": "acabaste",
+                    "el": "acabó",
+                    "nosotros": "acabamos",
+                    "vosotros": "acabasteis",
+                    "ellos": "acabaron"
+                }
+            ],
+            "future": [
+                {
+                    "yo": "acabaré",
+                    "tu": "acabarás",
+                    "el": "acabará",
+                    "nosotros": "acabaremos",
+                    "vosotros": "acabaréis",
+                    "ellos": "acabarán"
+                }
+            ],
+            "conditional": [
+                {
+                    "yo": "acabaría",
+                    "tu": "acabarías",
+                    "el": "acabaría",
+                    "nosotros": "acabaríamos",
+                    "vosotros": "acabaríais",
+                    "ellos": "acabarían"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "acabe",
+                    "tu": "acabes",
+                    "el": "acabe",
+                    "nosotros": "acabemos",
+                    "vosotros": "acabéis",
+                    "ellos": "acaben"
+                }
+            ],
+            "subjunctiveimperfectra": [
+                {
+                    "yo": "acabara",
+                    "tu": "acabaras",
+                    "el": "acabara",
+                    "nosotros": "acabáramos",
+                    "vosotros": "acabarais",
+                    "ellos": "acabaran"
+                }
+            ],
+            "subjunctiveimperfectse": [
+                {
+                    "yo": "acabase",
+                    "tu": "acabases",
+                    "el": "acabase",
+                    "nosotros": "acabásemos",
+                    "vosotros": "acabaseis",
+                    "ellos": "acabasen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "acabare",
+                    "tu": "acabares",
+                    "el": "acabare",
+                    "nosotros": "acabáremos",
+                    "vosotros": "acabareis",
+                    "ellos": "acabaren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "acaba",
+                    "el": "acabe",
+                    "nosotros": "acabemos",
+                    "vosotros": "acabad",
+                    "ellos": "acaben"
+                }
+            ],
+            "infinitive": "acabar",
+            "participle": [
+                {
+                    "present": "acabando",
+                    "past": "acabado"
+                }
+            ]
+        },
+        {
+            "vtype": "0",
+            "regular": "regular",
+            "english": "to accept",
+            "present": [
+                {
+                    "yo": "acepto",
+                    "tu": "aceptas",
+                    "el": "acepta",
+                    "nosotros": "aceptamos",
+                    "vosotros": "aceptáis",
+                    "ellos": "aceptan"
+                }
+            ],
+            "imperfect": [
+                {
+                    "yo": "aceptaba",
+                    "tu": "aceptabas",
+                    "el": "aceptaba",
+                    "nosotros": "aceptábamos",
+                    "vosotros": "aceptabais",
+                    "ellos": "aceptaban"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "acepté",
+                    "tu": "aceptaste",
+                    "el": "aceptó",
+                    "nosotros": "aceptamos",
+                    "vosotros": "aceptasteis",
+                    "ellos": "aceptaron"
+                }
+            ],
+            "future": [
+                {
+                    "yo": "aceptaré",
+                    "tu": "aceptarás",
+                    "el": "aceptará",
+                    "nosotros": "aceptaremos",
+                    "vosotros": "aceptaréis",
+                    "ellos": "aceptarán"
+                }
+            ],
+            "conditional": [
+                {
+                    "yo": "aceptaría",
+                    "tu": "aceptarías",
+                    "el": "aceptaría",
+                    "nosotros": "aceptaríamos",
+                    "vosotros": "aceptaríais",
+                    "ellos": "aceptarían"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "acepte",
+                    "tu": "aceptes",
+                    "el": "acepte",
+                    "nosotros": "aceptemos",
+                    "vosotros": "aceptéis",
+                    "ellos": "acepten"
+                }
+            ],
+            "subjunctiveimperfectra": [
+                {
+                    "yo": "aceptara",
+                    "tu": "aceptaras",
+                    "el": "aceptara",
+                    "nosotros": "aceptáramos",
+                    "vosotros": "aceptarais",
+                    "ellos": "aceptaran"
+                }
+            ],
+            "subjunctiveimperfectse": [
+                {
+                    "yo": "aceptase",
+                    "tu": "aceptases",
+                    "el": "aceptase",
+                    "nosotros": "aceptásemos",
+                    "vosotros": "aceptaseis",
+                    "ellos": "aceptasen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "aceptare",
+                    "tu": "aceptares",
+                    "el": "aceptare",
+                    "nosotros": "aceptáremos",
+                    "vosotros": "aceptareis",
+                    "ellos": "aceptaren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "acepta",
+                    "el": "acepte",
+                    "nosotros": "aceptemos",
+                    "vosotros": "aceptad",
+                    "ellos": "acepten"
+                }
+            ],
+            "infinitive": "aceptar",
+            "participle": [
+                {
+                    "present": "aceptando",
+                    "past": "aceptado"
+                }
+            ]
+        },
+        {
+            "vtype": "0",
+            "regular": "irregular",
+            "english": "to walk",
+            "present": [
+                {
+                    "yo": "ando",
+                    "tu": "andas",
+                    "el": "anda",
+                    "nosotros": "andamos",
+                    "vosotros": "andáis",
+                    "ellos": "andan"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "anduve",
+                    "tu": "anduviste",
+                    "el": "anduvo",
+                    "nosotros": "anduvimos",
+                    "vosotros": "anduvisteis",
+                    "ellos": "anduvieron"
+                }
+            ],
+            "imperfect": [
+                {
+                    "yo": "andaba",
+                    "tu": "andabas",
+                    "el": "andaba",
+                    "nosotros": "andábamos",
+                    "vosotros": "andabais",
+                    "ellos": "andaban"
+                }
+            ],
+            "future": [
+                {
+                    "yo": "andaré",
+                    "tu": "andarás",
+                    "el": "andará",
+                    "nosotros": "andaremos",
+                    "vosotros": "andaréis",
+                    "ellos": "andarán"
+                }
+            ],
+            "conditional": [
+                {
+                    "yo": "andaría",
+                    "tu": "andarías",
+                    "el": "andaría",
+                    "nosotros": "andaríamos",
+                    "vosotros": "andaríais",
+                    "ellos": "andarían"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "ande",
+                    "tu": "andes",
+                    "el": "ande",
+                    "nosotros": "andemos",
+                    "vosotros": "andéis",
+                    "ellos": "anden"
+                }
+            ],
+            "subjunctiveimperfectra": [
+                {
+                    "yo": "anduviera",
+                    "tu": "anduvieras",
+                    "el": "anduviera",
+                    "nosotros": "anduviéramos",
+                    "vosotros": "anduvierais",
+                    "ellos": "anduvieran"
+                }
+            ],
+            "subjunctiveimperfectse": [
+                {
+                    "yo": "anduviese",
+                    "tu": "anduvieses",
+                    "el": "anduviese",
+                    "nosotros": "anduviésemos",
+                    "vosotros": "anduvieseis",
+                    "ellos": "anduviesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "anduviere",
+                    "tu": "anduvieres",
+                    "el": "anduviere",
+                    "nosotros": "anduviéremos",
+                    "vosotros": "anduviereis",
+                    "ellos": "anduvieren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "anda",
+                    "el": "ande",
+                    "nosotros": "andemos",
+                    "vosotros": "andad",
+                    "ellos": "anden"
+                }
+            ],
+            "infinitive": "andar",
+            "participle": [
+                {
+                    "present": "andando",
+                    "past": "andado"
+                }
+            ]
+        },
+        {
+            "vtype": "1",
+            "regular": "regular",
+            "english": "to learn",
+            "present": [
+                {
+                    "yo": "aprendo",
+                    "tu": "aprendes",
+                    "el": "aprende",
+                    "nosotros": "aprendemos",
+                    "vosotros": "aprendéis",
+                    "ellos": "aprenden"
+                }
+            ],
+            "preterite": [
+                {
+                    "yo": "aprendí",
+                    "tu": "aprendiste",
+                    "el": "aprendío",
+                    "nosotros": "aprendimos",
+                    "vosotros": "aprendisteis",
+                    "ellos": "aprendieron"
+                }
+            ],
+            "imperfect": [
+                {
+                    "yo": "aprendía",
+                    "tu": "aprendías",
+                    "el": "aprendía",
+                    "nosotros": "aprendíamos",
+                    "vosotros": "aprendíais",
+                    "ellos": "aprendían"
+                }
+            ],
+            "future": [
+                {
+                    "yo": "aprenderé",
+                    "tu": "aprenderás",
+                    "el": "aprenderá",
+                    "nosotros": "aprendéremos",
+                    "vosotros": "aprenderéis",
+                    "ellos": "aprenderán"
+                }
+            ],
+            "conditional": [
+                {
+                    "yo": "aprendería",
+                    "tu": "aprenderías",
+                    "el": "aprendería",
+                    "nosotros": "aprenderíamos",
+                    "vosotros": "aprenderíais",
+                    "ellos": "aprenderían"
+                }
+            ],
+            "subjunctivepresent": [
+                {
+                    "yo": "aprenda",
+                    "tu": "aprendas",
+                    "el": "aprenda",
+                    "nosotros": "aprendamos",
+                    "vosotros": "aprendáis",
+                    "ellos": "aprendan"
+                }
+            ],
+            "subjunctiveimperfectra": [
+                {
+                    "yo": "aprendiera",
+                    "tu": "aprendieras",
+                    "el": "aprendiera",
+                    "nosotros": "aprendiéramos",
+                    "vosotros": "anduvierais",
+                    "ellos": "aprendieran"
+                }
+            ],
+            "subjunctiveimperfectse": [
+                {
+                    "yo": "aprendiese",
+                    "tu": "aprendieses",
+                    "el": "aprendiese",
+                    "nosotros": "aprendiésemos",
+                    "vosotros": "aprendieseis",
+                    "ellos": "aprendiesen"
+                }
+            ],
+            "subjunctivefuture": [
+                {
+                    "yo": "aprendiere",
+                    "tu": "aprendieres",
+                    "el": "aprendiere",
+                    "nosotros": "aprendiéremos",
+                    "vosotros": "aprendiereis",
+                    "ellos": "aprendieren"
+                }
+            ],
+            "imperative": [
+                {
+                    "tu": "aprende",
+                    "el": "aprenda",
+                    "nosotros": "aprendamos",
+                    "vosotros": "aprended",
+                    "ellos": "aprendan"
+                }
+            ],
+            "infinitive": "aprender",
+            "participle": [
+                {
+                    "present": "aprendiendo",
+                    "past": "aprendido"
+                }
+            ]
+        }
+    ]
+}
